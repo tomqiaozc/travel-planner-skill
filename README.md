@@ -16,9 +16,17 @@ Contents:
 - `assets/screenshots/` — screenshots from real deployed itinerary pages
 
 Screenshots
-- AMap / China itinerary example:
+- AMap / China itinerary example — 磐安 2天1晚:
 
-  ![AMap itinerary example](assets/screenshots/amap-jinhua-pan-an.png)
+  ![AMap itinerary example — Pan'an](assets/screenshots/amap-jinhua-pan-an.png)
+
+- AMap / China itinerary example — 济南泉城 3.5日:
+
+  ![AMap itinerary example — Jinan Quancheng](assets/screenshots/amap-jinan-quancheng.png)
+
+- AMap / China itinerary example — 济南及周边 4日:
+
+  ![AMap itinerary example — Jinan 4 day](assets/screenshots/amap-jinan-4day.png)
 
 Notes:
 - Secrets are intentionally excluded. The original local skill stores API keys in `assets/.env`; that file is not published here.
